@@ -1,4 +1,4 @@
 from hello import hellotwo
 
 def test_hellotwo():
-    assert hellotwo() == 1
+    assert hellotwo() == 2
